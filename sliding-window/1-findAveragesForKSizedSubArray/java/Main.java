@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+//Problem Statement : Given an array, find the average of all contiguous subarrays of size ‘K’ in it.
+//Subarray : Continuous section of array
+
 public class Main {
 
     public static void main(String[] args) {
